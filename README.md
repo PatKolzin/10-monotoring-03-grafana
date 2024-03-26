@@ -65,7 +65,7 @@ node_filesystem_avail_bytes/(1024*1024*1024)
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
 ### Ответ:
-[Json](https://github.com/)
+[Json]([https://github.com/](https://github.com/PatKolzin/10-monotoring-03-grafana/blob/main/dash2.json))
 
 ---
 
